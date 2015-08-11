@@ -1,6 +1,6 @@
 
 public class Program {
   static void Main() {
-    System.Console.WriteLine("Hello minified");
+    System.Console.WriteLine("Hello minified!");
   }
 }
